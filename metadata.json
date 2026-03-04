@@ -1,0 +1,9 @@
+{
+  "name": "Privacy Clone",
+  "description": "Plataforma de assinatura de conteúdo inspirada no Privacy.com.br",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
